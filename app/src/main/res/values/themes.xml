@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use an AppCompat-based Material Components theme to satisfy AppCompatActivity -->
+    <style name="Theme.SOAPCompteApp" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+</resources>
